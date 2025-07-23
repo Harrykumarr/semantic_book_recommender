@@ -1,0 +1,9 @@
+pandas
+numpy
+gradio
+langchain
+langchain-community
+langchain-chroma
+langchain-text-splitters
+chromadb
+sentence-transformers
